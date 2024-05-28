@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 💬 Pregúntame sobre **REACT**-
 
-📫 Cómo contactarme **dedsoncasta07@gmail.com**<
+📫 Cómo contactarme **dedsoncasta07@gmail.com**
 
-h3 align="left">Conéctate conmigo: </h3>
+<h3 align="left">Conéctate conmigo: </h3>
 <p align="left">
 <a href="https://linkedin.com/in/edson-orlando-casta%c3%b1eda-urrego/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edson-orlando-casta%c3%b1eda-urrego/" height="30" width="40" /></a>
 </p>

@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, soy Edson Orlando Castañeda Urrego</h1>
 
-<h3 align="center">Apasionado desarrollador web en colombia</h3><br/>
+<h3 align="center">Apasionado desarrollador web en colombia</h3>
 
 <p>Actualmente estudiante del bootcamp de Henry, donde he adquirido conocimientos sólidos en el arte de la programación. Mi objetivo es transformar ideas en soluciones prácticas y eficientes a través del código.</p>
 
@@ -16,7 +16,7 @@
 
 <h3 align="left">Idiomas y herramientas:</h3>
 
-<p>El Bootcamp de Henry me ha permitido adquirir el conocimiento y experiencia fundamental para despegar 🚀 Por lo que las principales tecnologías que manejo son:</p><br/>
+<p>El Bootcamp de Henry me ha permitido adquirir el conocimiento y experiencia fundamental para despegar 🚀 Por lo que las principales tecnologías que manejo son:</p>
 
 <p align="left"> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>

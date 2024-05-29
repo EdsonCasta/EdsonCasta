@@ -2,7 +2,11 @@
 
 <h3 align="center">Apasionado desarrollador web en colombia</h3>
 
-<p>- Actualmente estudiante del bootcamp de Henry, donde he adquirido conocimientos sólidos en el arte de la programación. Mi objetivo es transformar ideas en soluciones prácticas y eficientes a través del código.</p>
+<p>Actualmente estudiante del bootcamp de Henry, donde he adquirido conocimientos sólidos en el arte de la programación. Mi objetivo es transformar ideas en soluciones prácticas y eficientes a través del código.</p>
+
+<p>En el bootcamp de Henry, he aprendido el lenguaje JavaScript y a utilizar diversas tecnologías. Me especializo en JavaScript, React, Node.js, y otras herramientas del ecosistema de desarrollo moderno. Mi enfoque está en escribir código limpio y eficiente para crear soluciones prácticas y robustas.</p>
+
+<p>Mi meta es seguir desarrollándome como desarrollador full-stack, contribuyendo a proyectos innovadores y desafiantes. Busco oportunidades donde pueda aplicar mis habilidades y seguir aprendiendo de profesionales experimentados en el campo.</p>
 
 - 🔭 Actualmente estoy trabajando en [ProyectoFinal-Plantech](https://github.com/MairaZamer/ProyectoFinal-Plantech)
 

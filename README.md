@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Edson Orlando Castañeda Urrego</h1>
-<h3 align="center">Apasionado desarrollador web en colombia</h3>
+<h2 align="center">Apasionado desarrollador web en colombia</h2>
 
 - 🔭 Actualmente estoy trabajando en [ProyectoFinal-Plantech](https://github.com/MairaZamer/ProyectoFinal-Plantech)
 

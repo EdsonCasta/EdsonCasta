@@ -14,17 +14,6 @@
 
 - ⚡ Dato curioso: **Me encanta el fútbol y ciclismo**
 
-<h3 align="left">Conéctate conmigo:</h3>
-
-- 📫 Cómo contactarme **dedsoncasta07@gmail.com**
-
-<p align="left">
-<a href="https://twitter.com/dedsoncas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dedsoncas" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/edson-orlando-casta%c3%b1eda-urrego/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edson-orlando-casta%c3%b1eda-urrego/" height="30" width="40" /></a>
-<a href="https://fb.com/dedsoncasta41@hotmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dedsoncasta41@hotmail.com" height="30" width="40" /></a>
-<a href="https://instagram.com/edson.castaneda.15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="edson.castaneda.15" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">Idiomas y herramientas:</h3>
 <p>El Bootcamp de Henry me ha permitido adquirir el conocimiento y experiencia fundamental para despegar 🚀 Por lo que las principales tecnologías que manejo son:</p>
 <p align="left"> 
@@ -37,6 +26,17 @@
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
+
+<h3 align="left">Conéctate conmigo:</h3>
+
+- 📫 Cómo contactarme **dedsoncasta07@gmail.com**
+
+<p align="left">
+<a href="https://twitter.com/dedsoncas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dedsoncas" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/edson-orlando-casta%c3%b1eda-urrego/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edson-orlando-casta%c3%b1eda-urrego/" height="30" width="40" /></a>
+<a href="https://fb.com/dedsoncasta41@hotmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dedsoncasta41@hotmail.com" height="30" width="40" /></a>
+<a href="https://instagram.com/edson.castaneda.15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="edson.castaneda.15" height="30" width="40" /></a>
+</p>
 
 <p>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=edsoncasta&show_icons=true&locale=en" alt="edsoncasta" /></p>
 

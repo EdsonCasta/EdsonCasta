@@ -10,11 +10,11 @@
 
 - 🔭 Actualmente estoy trabajando en [ProyectoFinal-Plantech](https://github.com/MairaZamer/ProyectoFinal-Plantech)
 
-- 🌱 Actualmente estoy aprendiendo **REACT NATIVE - REDUX TOOLKIT - TYPESCRIPT**-
+- 🌱 Actualmente estoy aprendiendo **REACT NATIVE - REDUX TOOLKIT - TYPESCRIPT**
 
 - ⚡ Dato curioso: **Me encanta el fútbol y ciclismo**
 
-<h3 align="left">Idiomas y herramientas:</h3>
+<h3 align="left">Lenguajes y Tecnologias:</h3>
 
 <p>El Bootcamp de Henry me ha permitido adquirir el conocimiento y experiencia fundamental para despegar 🚀 Por lo que las principales tecnologías que manejo son:</p>
 

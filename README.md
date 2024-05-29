@@ -2,6 +2,8 @@
 
 <h3 align="center">Apasionado desarrollador web en colombia</h3>
 
+<p>- Actualmente estudiante del bootcamp de Henry, donde he adquirido conocimientos sólidos en el arte de la programación. Mi objetivo es transformar ideas en soluciones prácticas y eficientes a través del código.</p>
+
 - 🔭 Actualmente estoy trabajando en [ProyectoFinal-Plantech](https://github.com/MairaZamer/ProyectoFinal-Plantech)
 
 - 🌱 Actualmente estoy aprendiendo **REACT NATIVE - REDUX TOOLKIT - TYPESCRIPT**-

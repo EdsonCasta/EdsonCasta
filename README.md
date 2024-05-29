@@ -5,7 +5,7 @@
 
 - 🌱 Actualmente estoy aprendiendo **REACT NATIVE - REDUX TOOLKIT - TYPESCRIPT**-
 
-📫 Cómo contactarme **dedsoncasta07@gmail.com**
+- 📫 Cómo contactarme **dedsoncasta07@gmail.com**
 
 - ⚡ Dato curioso: **Me encanta el fútbol y ciclismo**
 

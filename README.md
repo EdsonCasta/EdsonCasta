@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, soy Edson Orlando Castañeda Urrego</h1>
 
-<h3 align="center">Apasionado desarrollador web en colombia</h3>
+<h3 align="center">Apasionado desarrollador web en colombia</h3></br>
 
 <p>Actualmente estudiante del bootcamp de Henry, donde he adquirido conocimientos sólidos en el arte de la programación. Mi objetivo es transformar ideas en soluciones prácticas y eficientes a través del código.</p>
 

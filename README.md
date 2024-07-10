@@ -8,7 +8,7 @@
 
 <p>Mi meta es seguir desarrollándome como desarrollador full-stack, contribuyendo a proyectos innovadores y desafiantes. Busco oportunidades donde pueda aplicar mis habilidades y seguir aprendiendo de profesionales experimentados en el campo.</p>
 
-- 🔭 Actualmente estoy trabajando en [ProyectoFinal-Plantech](https://github.com/MairaZamer/ProyectoFinal-Plantech)
+- 🔭 Actualmente estoy trabajando en [ProyectoFinal-Plantech](https://github.com/GabTorres17/EbooksPalace-Front)
 
 - 🌱 Actualmente estoy aprendiendo **REACT NATIVE - REDUX TOOLKIT - TYPESCRIPT**
 

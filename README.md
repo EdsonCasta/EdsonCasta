@@ -10,7 +10,7 @@
 
 - 🔭 Actualmente estoy trabajando en [ProyectoFinal-Ebookspalace](https://github.com/GabTorres17/EbooksPalace-Front)
 
-- 🌱 Actualmente estoy aprendiendo **REACT NATIVE - REDUX TOOLKIT - TYPESCRIPT**
+- 🌱 Actualmente estoy aprendiendo **JAVA - POO**
 
 - ⚡ Dato curioso: **Me encanta el fútbol y ciclismo**
 
